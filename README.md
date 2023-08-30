@@ -1,8 +1,10 @@
-# ICS 212 - Lab Week 1
+# ICS 212
+## Lab - Week 1
 
 # Aloha World
 
-Update file aloha.c to print exactly: "Aloha, World!"
+Assignment:
+- Update file aloha.c to print exactly: "Aloha, World!"
 
 Steps to submit changes:
 1. Click on aloha.c to open file
