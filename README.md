@@ -13,8 +13,7 @@
 4. Once you are ready to submit your changes, click on the green "Commit changes..." button on the top right
 5. Enter a commit message that describes your changes in a few words - eg: added printf statement
 6. Select "Commit directly to the main branch"
-7. Click on "Commit Changes" button
-Your code changes have been submitted!
+7. Click on "Commit Changes" button. Your code changes have been submitted!
 
 ### To check whether your code changes passed:
 1. Click on "Pull Requests" on the top
